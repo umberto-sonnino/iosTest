@@ -1,2 +1,1 @@
-# Test
-this is a test repo, to test the creation of frameworks for the ios runtimes. 
+This repository holds the build output for our rive-ios runtimes https://github.com/rive-app/rive-ios
